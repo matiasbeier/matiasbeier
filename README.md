@@ -1,4 +1,6 @@
-Hi, I'm Matias Beier, I'm a Full Stack developer from Argentina
+Hi, I'm Matias Beier.
+
+I'm a Full Stack Developer from Argentina with a Front-end orientation, with the ability to work on web projects in a modularized way for greater understanding by the work team.
 
 - 🌱 I’m about to finish the full stack developer career at https://www.soyhenry.com/
 - 👯 I’m looking to collaborate on any kind of original projects where I could be useful.
