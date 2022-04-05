@@ -7,6 +7,6 @@ I'm a Full Stack Developer from Argentina with a Front-end orientation, with the
 
 Languages and tools:
 
-JavaScript | React.js | Redux.js | Node.js | CSS | Scrum | HTML | Express.js | PostgreSQL | Socket.io | Sequelize.js
+JavaScript | React.js | Redux.js | Socket.io | Node.js | CSS | Scrum | HTML | Express.js | PostgreSQL | Sequelize.js
 
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/matias-beier-dev
