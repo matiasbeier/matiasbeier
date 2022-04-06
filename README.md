@@ -9,4 +9,8 @@ Languages and tools:
 
 JavaScript | React.js | Redux.js | Socket.io | Node.js | CSS | Scrum | HTML | Express.js | PostgreSQL | Sequelize.js
 
+My proyects:
+
+<img src="./assets/poster.png">
+
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/matias-beier-dev
