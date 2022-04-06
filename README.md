@@ -11,6 +11,7 @@ JavaScript | React.js | Redux.js | Socket.io | Node.js | CSS | Scrum | HTML | Ex
 
 My proyects:
 
-<img heigth="150px" width="220px" src="assets\277996716_5320950171282891_4662641186401601946_n.jpg">
+<a href="https://github.com/matiasbeier/PI-Dogs" ><img heigth="200px" width="285px" src="assets\277996716_5320950171282891_4662641186401601946_n.jpg"></a>
+
 
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/matias-beier-dev
