@@ -11,9 +11,11 @@ JavaScript | React.js | Redux.js | Socket.io | Node.js | CSS | Scrum | HTML | Ex
 
 My proyects:
 App Dogs
+<br/>
 <a href="https://github.com/matiasbeier/PI-Dogs" ><img  width="370px" src="assets\277996716_5320950171282891_4662641186401601946_n.jpg"></a>
 <a href="https://github.com/matiasbeier/PI-Dogs" ><img  width="370px" src="assets\dogsfoto.png"></a>
 Zooper Trivia
+<br/>
 <a href="https://github.com/matiasbeier/zooper-trivia" ><img  width="370px" src="assets\juego.png"></a>
 <a href="https://github.com/matiasbeier/zooper-trivia" ><img  width="370px" src="assets\juego2.png"></a>
 <a href="https://github.com/matiasbeier/zooper-trivia" ><img  width="370px" src="assets\juego3.png"></a>
