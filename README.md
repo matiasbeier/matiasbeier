@@ -14,6 +14,7 @@ App Dogs
 <br/>
 <a href="https://github.com/matiasbeier/PI-Dogs" ><img  width="370px" src="assets\277996716_5320950171282891_4662641186401601946_n.jpg"></a>
 <a href="https://github.com/matiasbeier/PI-Dogs" ><img  width="370px" src="assets\dogsfoto.png"></a>
+<br/>
 Zooper Trivia
 <br/>
 <a href="https://github.com/matiasbeier/zooper-trivia" ><img  width="370px" src="assets\juego.png"></a>
