@@ -10,6 +10,7 @@ Languages and tools:
 JavaScript | React.js | Redux.js | Socket.io | Node.js | CSS | Scrum | HTML | Express.js | PostgreSQL | Sequelize.js
 
 My proyects:
+<br/>
 App Dogs
 <br/>
 <a href="https://github.com/matiasbeier/PI-Dogs" ><img  width="370px" src="assets\277996716_5320950171282891_4662641186401601946_n.jpg"></a>
